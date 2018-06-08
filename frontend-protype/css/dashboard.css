@@ -1,0 +1,11 @@
+.menu{
+background-color:skyblue;
+height:960px;
+min-height:100%;
+}
+
+.content{
+background-color:whitesmoke;
+height:800px;   
+min-height:100%;
+}
