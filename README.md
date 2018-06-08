@@ -8,3 +8,4 @@ Current Version  - 0.1
 
 Chris Godber
 www.noirvortex.co.uk
+# gn-comic
